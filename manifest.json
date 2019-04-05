@@ -1,6 +1,6 @@
 {  
-  "name": "My PWA",  
-  "short_name": "My PWA",  
+  "name": "ditto go",  
+  "short_name": "ditto",  
   "icons": [    
     {  
       "src": "/demo-my-pwa/icon_192x192.png",  
